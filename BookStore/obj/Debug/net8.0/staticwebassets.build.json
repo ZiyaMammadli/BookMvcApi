@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "A6xxbKf5DfkaTD6T7j+LysRDt66/n3hSAyRvvjGOx1s=",
+  "Source": "BookStore",
+  "BasePath": "_content/BookStore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BookStore\\wwwroot",
+      "Source": "BookStore",
+      "ContentRoot": "C:\\Users\\ziyarma\\source\\repos\\BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ziyarma\\source\\repos\\BookStore\\BookStore\\wwwroot\\Uploads\\Book\\wp2858553.jpg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ziyarma\\source\\repos\\BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "Uploads/Book/wp2858553.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Book\\wp2858553.jpg"
+    }
+  ]
+}

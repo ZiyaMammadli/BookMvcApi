@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ziyarma\\source\\repos\\BookStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39AEAA2E-3D9A-49FA-BFE6-778E7FE6C8CC}|BookStore\\BookStore.csproj|c:\\users\\ziyarma\\source\\repos\\bookstore\\bookstore\\dtos\\bookpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39AEAA2E-3D9A-49FA-BFE6-778E7FE6C8CC}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\dtos\\bookpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39AEAA2E-3D9A-49FA-BFE6-778E7FE6C8CC}|BookStore\\BookStore.csproj|c:\\users\\ziyarma\\source\\repos\\bookstore\\bookstore\\dtos\\bookputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39AEAA2E-3D9A-49FA-BFE6-778E7FE6C8CC}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\dtos\\bookputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39AEAA2E-3D9A-49FA-BFE6-778E7FE6C8CC}|BookStore\\BookStore.csproj|c:\\users\\ziyarma\\source\\repos\\bookstore\\bookstore\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39AEAA2E-3D9A-49FA-BFE6-778E7FE6C8CC}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39AEAA2E-3D9A-49FA-BFE6-778E7FE6C8CC}|BookStore\\BookStore.csproj|c:\\users\\ziyarma\\source\\repos\\bookstore\\bookstore\\dtos\\bookgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39AEAA2E-3D9A-49FA-BFE6-778E7FE6C8CC}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\dtos\\bookgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39AEAA2E-3D9A-49FA-BFE6-778E7FE6C8CC}|BookStore\\BookStore.csproj|c:\\users\\ziyarma\\source\\repos\\bookstore\\bookstore\\mapper\\bookmapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39AEAA2E-3D9A-49FA-BFE6-778E7FE6C8CC}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\mapper\\bookmapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39AEAA2E-3D9A-49FA-BFE6-778E7FE6C8CC}|BookStore\\BookStore.csproj|c:\\users\\ziyarma\\source\\repos\\bookstore\\bookstore\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39AEAA2E-3D9A-49FA-BFE6-778E7FE6C8CC}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39AEAA2E-3D9A-49FA-BFE6-778E7FE6C8CC}|BookStore\\BookStore.csproj|c:\\users\\ziyarma\\source\\repos\\bookstore\\bookstore\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39AEAA2E-3D9A-49FA-BFE6-778E7FE6C8CC}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39AEAA2E-3D9A-49FA-BFE6-778E7FE6C8CC}|BookStore\\BookStore.csproj|c:\\users\\ziyarma\\source\\repos\\bookstore\\bookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39AEAA2E-3D9A-49FA-BFE6-778E7FE6C8CC}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39AEAA2E-3D9A-49FA-BFE6-778E7FE6C8CC}|BookStore\\BookStore.csproj|c:\\users\\ziyarma\\source\\repos\\bookstore\\bookstore\\data\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39AEAA2E-3D9A-49FA-BFE6-778E7FE6C8CC}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\data\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookPutDto.cs",
+              "DocumentMoniker": "C:\\Users\\ziyarma\\source\\repos\\BookStore\\BookStore\\DTOs\\BookPutDto.cs",
+              "RelativeDocumentMoniker": "BookStore\\DTOs\\BookPutDto.cs",
+              "ToolTip": "C:\\Users\\ziyarma\\source\\repos\\BookStore\\BookStore\\DTOs\\BookPutDto.cs",
+              "RelativeToolTip": "BookStore\\DTOs\\BookPutDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T13:46:22.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookPostDto.cs",
+              "DocumentMoniker": "C:\\Users\\ziyarma\\source\\repos\\BookStore\\BookStore\\DTOs\\BookPostDto.cs",
+              "RelativeDocumentMoniker": "BookStore\\DTOs\\BookPostDto.cs",
+              "ToolTip": "C:\\Users\\ziyarma\\source\\repos\\BookStore\\BookStore\\DTOs\\BookPostDto.cs",
+              "RelativeToolTip": "BookStore\\DTOs\\BookPostDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:42:04.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookMapProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ziyarma\\source\\repos\\BookStore\\BookStore\\Mapper\\BookMapProfile.cs",
+              "RelativeDocumentMoniker": "BookStore\\Mapper\\BookMapProfile.cs",
+              "ToolTip": "C:\\Users\\ziyarma\\source\\repos\\BookStore\\BookStore\\Mapper\\BookMapProfile.cs",
+              "RelativeToolTip": "BookStore\\Mapper\\BookMapProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:21:35.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\ziyarma\\source\\repos\\BookStore\\BookStore\\DTOs\\BookGetDto.cs",
+              "RelativeDocumentMoniker": "BookStore\\DTOs\\BookGetDto.cs",
+              "ToolTip": "C:\\Users\\ziyarma\\source\\repos\\BookStore\\BookStore\\DTOs\\BookGetDto.cs",
+              "RelativeToolTip": "BookStore\\DTOs\\BookGetDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:19:02.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\ziyarma\\source\\repos\\BookStore\\BookStore\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookStore\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\ziyarma\\source\\repos\\BookStore\\BookStore\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookStore\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAIwFMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:14:38.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ziyarma\\source\\repos\\BookStore\\BookStore\\Program.cs",
+              "RelativeDocumentMoniker": "BookStore\\Program.cs",
+              "ToolTip": "C:\\Users\\ziyarma\\source\\repos\\BookStore\\BookStore\\Program.cs",
+              "RelativeToolTip": "BookStore\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:00:29.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ziyarma\\source\\repos\\BookStore\\BookStore\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BookStore\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ziyarma\\source\\repos\\BookStore\\BookStore\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "BookStore\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:03:54.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\ziyarma\\source\\repos\\BookStore\\BookStore\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "BookStore\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\ziyarma\\source\\repos\\BookStore\\BookStore\\Entities\\Book.cs",
+              "RelativeToolTip": "BookStore\\Entities\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:03:41.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ziyarma\\source\\repos\\BookStore\\BookStore\\Data\\BookDbContext.cs",
+              "RelativeDocumentMoniker": "BookStore\\Data\\BookDbContext.cs",
+              "ToolTip": "C:\\Users\\ziyarma\\source\\repos\\BookStore\\BookStore\\Data\\BookDbContext.cs",
+              "RelativeToolTip": "BookStore\\Data\\BookDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:00:56.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
