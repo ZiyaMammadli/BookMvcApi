@@ -1,0 +1,111 @@
+[
+  {
+    "ContainingType": "BookStore.Controllers.BooksController",
+    "Method": "Create",
+    "RelativePath": "api/Books/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SalePrice",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "CostPrice",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "Imagefile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookStore.Controllers.BooksController",
+    "Method": "Delete",
+    "RelativePath": "api/Books/Delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookStore.Controllers.BooksController",
+    "Method": "GetAll",
+    "RelativePath": "api/Books/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookStore.Controllers.BooksController",
+    "Method": "GetbyId",
+    "RelativePath": "api/Books/GetbyId/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookStore.Controllers.BooksController",
+    "Method": "Update",
+    "RelativePath": "api/Books/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SalePrice",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "CostPrice",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "Imagefile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

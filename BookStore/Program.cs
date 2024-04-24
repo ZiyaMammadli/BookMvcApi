@@ -11,6 +11,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddAutoMapper(typeof(BookMapProfile));
 builder.Services.AddSwaggerGen();
+builder.Services.AddCors();
 builder.Services.AddDbContext<BookDbContext>(opt =>
 {
     opt.UseSqlServer(builder.Configuration.GetConnectionString("default"));
@@ -24,7 +25,6 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
 app.UseHttpsRedirection();
 
 app.UseAuthorization();

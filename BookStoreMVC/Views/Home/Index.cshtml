@@ -1,4 +1,7 @@
-﻿@{
+﻿@using BookStoreMVC.ViewModels;
+@model List<BookGetViewModel>
+@{
+    
     ViewData["Title"] = "Home Page";
 }
 
@@ -6,3 +9,36 @@
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
+
+<h1>@TempData["successed"]</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Id</th>
+            <th scope="col">Name</th>
+            <th scope="col">ImageUrl</th>
+            <th scope="col">Sale Price</th>
+            <th scope="col">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <th scope="row">1</th>
+                <td>@book.Id</td>
+                <td>@book.Name</td>
+                <td>@book.ImageUrl</td>
+                <td>@book.SalePrice</td>
+                <td>
+                    <div style="display:flex;">
+                       @*  <a style="margin-right:10px;color:white" class="btn btn-warning" asp-controller="banner" asp-action="update" asp-route-id="@banner.Id">Update</a> *@
+                        <a style="color:white" class="btn btn-danger deleteButton" asp-controller="Home" asp-action="Delete" asp-route-id="@book.Id">Delete</a>
+                    </div>
+                </td>
+            </tr>
+        }
+
+    </tbody>
+</table>

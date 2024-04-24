@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "A6xxbKf5DfkaTD6T7j+LysRDt66/n3hSAyRvvjGOx1s=",
+  "Hash": "QsfCfT7uZcPyOX1CUP5vYUCI/B4mr3Pa1kuXSnofGIo=",
   "Source": "BookStore",
   "BasePath": "_content/BookStore",
   "Mode": "Default",
@@ -10,19 +10,19 @@
     {
       "Name": "BookStore\\wwwroot",
       "Source": "BookStore",
-      "ContentRoot": "C:\\Users\\ziyarma\\source\\repos\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\source\\repos\\BookStoreMvcAPI\\BookMvcApi\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ziyarma\\source\\repos\\BookStore\\BookStore\\wwwroot\\Uploads\\Book\\wp2858553.jpg",
+      "Identity": "C:\\Users\\user\\source\\repos\\BookStoreMvcAPI\\BookMvcApi\\BookStore\\wwwroot\\Uploads\\Book\\-1x-1.jpg",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ziyarma\\source\\repos\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\source\\repos\\BookStoreMvcAPI\\BookMvcApi\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
-      "RelativePath": "Uploads/Book/wp2858553.jpg",
+      "RelativePath": "Uploads/Book/-1x-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -33,7 +33,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Uploads\\Book\\wp2858553.jpg"
+      "OriginalItemSpec": "wwwroot\\Uploads\\Book\\-1x-1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\source\\repos\\BookStoreMvcAPI\\BookMvcApi\\BookStore\\wwwroot\\Uploads\\Book\\ABJ1501ST0256.jpg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\source\\repos\\BookStoreMvcAPI\\BookMvcApi\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "Uploads/Book/ABJ1501ST0256.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Book\\ABJ1501ST0256.jpg"
     }
   ]
 }

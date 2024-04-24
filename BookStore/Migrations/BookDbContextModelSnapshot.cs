@@ -30,7 +30,7 @@ namespace BookStore.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<double>("CoatPrice")
+                    b.Property<double>("CostPrice")
                         .HasColumnType("float");
 
                     b.Property<DateTime>("CreatedDate")

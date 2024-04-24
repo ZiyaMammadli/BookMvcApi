@@ -1,8 +1,12 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\ziyarma\\source\\repos\\BookStore\\BookStore\\wwwroot\\Uploads\\Book\\wp2858553.jpg",
-      "PackagePath": "staticwebassets\\Uploads\\Book\\wp2858553.jpg"
+      "Id": "C:\\Users\\user\\source\\repos\\BookStoreMvcAPI\\BookMvcApi\\BookStore\\wwwroot\\Uploads\\Book\\-1x-1.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Book\\-1x-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\BookStoreMvcAPI\\BookMvcApi\\BookStore\\wwwroot\\Uploads\\Book\\ABJ1501ST0256.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Book\\ABJ1501ST0256.jpg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookStore.Microsoft.AspNetCore.StaticWebAssets.props",

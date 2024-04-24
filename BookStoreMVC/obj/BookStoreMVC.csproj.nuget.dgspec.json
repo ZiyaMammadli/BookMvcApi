@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ziyarma\\source\\repos\\BookStore\\BookStoreMVC\\BookStoreMVC.csproj": {}
+    "C:\\Users\\user\\source\\repos\\BookStoreMvcAPI\\BookMvcApi\\BookStoreMVC\\BookStoreMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ziyarma\\source\\repos\\BookStore\\BookStoreMVC\\BookStoreMVC.csproj": {
+    "C:\\Users\\user\\source\\repos\\BookStoreMvcAPI\\BookMvcApi\\BookStoreMVC\\BookStoreMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ziyarma\\source\\repos\\BookStore\\BookStoreMVC\\BookStoreMVC.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\BookStoreMvcAPI\\BookMvcApi\\BookStoreMVC\\BookStoreMVC.csproj",
         "projectName": "BookStoreMVC",
-        "projectPath": "C:\\Users\\ziyarma\\source\\repos\\BookStore\\BookStoreMVC\\BookStoreMVC.csproj",
-        "packagesPath": "C:\\Users\\ziyarma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ziyarma\\source\\repos\\BookStore\\BookStoreMVC\\obj\\",
+        "projectPath": "C:\\Users\\user\\source\\repos\\BookStoreMvcAPI\\BookMvcApi\\BookStoreMVC\\BookStoreMVC.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\BookStoreMvcAPI\\BookMvcApi\\BookStoreMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ziyarma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -48,6 +48,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -67,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

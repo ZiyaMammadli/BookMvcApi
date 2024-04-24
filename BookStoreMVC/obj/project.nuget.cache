@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5MU9vMh/SwwpvR63lU/LP4HSaiJl0VQziowe8R8sUAY8+kt9SdtqszumRJ7ot1yIwSA2tGyiXF7BkDm9pMgb1g==",
+  "dgSpecHash": "bYNGmqZmfyTeYcDgta4oYaO1aBvdbKVLoumbdFLtX678j3tWpsIcyHDo3vfWiGDoiyakbci8vW7cFGtylU7E2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ziyarma\\source\\repos\\BookStore\\BookStoreMVC\\BookStoreMVC.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\BookStoreMvcAPI\\BookMvcApi\\BookStoreMVC\\BookStoreMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

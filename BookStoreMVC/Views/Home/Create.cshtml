@@ -1,0 +1,21 @@
+﻿@using BookStoreMVC.ViewModels;
+@model BookPostViewModel;
+<form method="post">
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Name</label>
+        <input asp-for="Name" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputPassword1" class="form-label">Sale Price</label>
+        <input asp-for="SalePrice" class="form-control" id="exampleInputPassword1">
+    </div>  
+    <div class="mb-3">
+        <label for="exampleInputPassword1" class="form-label">Cost Price</label>
+        <input asp-for="CostPrice" class="form-control" id="exampleInputPassword1">
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">ImageFile</label>
+        <input asp-for="Imagefile" class="form-control" aria-describedby="emailHelp">
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
